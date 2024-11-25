@@ -60,5 +60,5 @@ Accessibility: Can be extended to assist hearing or speech-impaired individuals.
 Real-Time Interaction: Interactive system suitable for live applications.
 
 # License
-This project is licensed under the Apache 2.0 License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the LICENSE file for details.
 
