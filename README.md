@@ -51,6 +51,7 @@ The recognized gesture is displayed in real-time on the video feed.
 ![image](https://github.com/user-attachments/assets/8eda02b6-da2c-4208-a4fb-40b1fbf93f55)
 
 Output For the Action Game:
+
 ![image](https://github.com/user-attachments/assets/55f84d27-11df-422d-84ed-473a0d8948b7)
 
 
