@@ -42,7 +42,8 @@ The LSTM predicts the gesture by analyzing the temporal pattern of movements.
 
 Output:
 The recognized gesture is displayed in real-time on the video feed.
-![image](https://github.com/user-attachments/assets/ecc88d90-6534-4b48-b0b9-b2b6e9c2aa98)
+![image](https://github.com/user-attachments/assets/8eda02b6-da2c-4208-a4fb-40b1fbf93f55)
+
 
 # Dataset
 Data Source: Custom dataset created by recording hand gestures using MediaPipe.
